@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1606977460 source:c:\users\toshiba\desktop\tetris\game.cpp
+	"tetromino.h"
+	"game.h"
+	"gamefield.h"
+
+1606977550 source:c:\users\toshiba\desktop\tetris\main.cpp
+	"game.h"
+
+1606980381 c:\users\toshiba\desktop\tetris\tetromino.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+	"gamefield.h"
+
+1606980280 source:c:\users\toshiba\desktop\tetris\tetromino.cpp
+	"tetromino.h"
+
+1606977391 c:\users\toshiba\desktop\tetris\game.h
+	"tetromino.h"
+
+1606977764 c:\users\toshiba\desktop\tetris\gamefield.h
+	<iostream>
+	<SDL2/SDL.h>
+	"tetromino.h"
+
+1606980434 source:c:\users\toshiba\desktop\tetris\gamefield.cpp
+	"gamefield.h"
+	"tetromino.h"
+
+1607091168 source:c:\users\toshiba\desktop\tetris - copy\game.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1607086260 c:\users\toshiba\desktop\tetris - copy\tetromino.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+
+1607089510 c:\users\toshiba\desktop\tetris - copy\gamefield.h
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+	"tetromino.h"
+
+1606997557 c:\users\toshiba\desktop\tetris - copy\game.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+
+1607093740 source:c:\users\toshiba\desktop\tetris - copy\gamefield.cpp
+	"gamefield.h"
+	"tetromino.h"
+	"game.h"
+
+1607052526 source:c:\users\toshiba\desktop\tetris - copy\main.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1607092052 source:c:\users\toshiba\desktop\tetris - copy\tetromino.cpp
+	"tetromino.h"
+	"game.h"
+	"gamefield.h"
+
+1607091168 source:c:\users\toshiba\desktop\tetris-ii\game.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1606997557 c:\users\toshiba\desktop\tetris-ii\game.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+
+1607167414 c:\users\toshiba\desktop\tetris-ii\gamefield.h
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+	"tetromino.h"
+
+1607086260 c:\users\toshiba\desktop\tetris-ii\tetromino.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+
+1607052526 source:c:\users\toshiba\desktop\tetris-ii\main.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1607171935 source:c:\users\toshiba\desktop\tetris-ii\tetromino.cpp
+	"tetromino.h"
+	"game.h"
+	"gamefield.h"
+
+1607172013 source:c:\users\toshiba\desktop\tetris-ii\gamefield.cpp
+	"gamefield.h"
+	"tetromino.h"
+	"game.h"
+
+1607052526 source:c:\users\toshiba\desktop\tetris iii\main.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1607221112 c:\users\toshiba\desktop\tetris iii\game.h
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<cstdlib>
+	<ctime>
+
+1607221533 c:\users\toshiba\desktop\tetris iii\gamefield.h
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+	"tetromino.h"
+
+1607247243 c:\users\toshiba\desktop\tetris iii\tetromino.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+
+1607249246 source:c:\users\toshiba\desktop\tetris iii\tetromino.cpp
+	"tetromino.h"
+	"game.h"
+	"gamefield.h"
+
+1607244158 source:c:\users\toshiba\desktop\tetris iii\game.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1607249366 source:c:\users\toshiba\desktop\tetris iii\gamefield.cpp
+	"gamefield.h"
+	"tetromino.h"
+	"game.h"
+
+1607309768 source:c:\users\toshiba\desktop\tetris i\game.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1607307971 c:\users\toshiba\desktop\tetris i\game.h
+	<iostream>
+	<string>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<cstdlib>
+	<ctime>
+
+1607307971 c:\users\toshiba\desktop\tetris i\gamefield.h
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+
+1607307996 c:\users\toshiba\desktop\tetris i\tetromino.h
+	<iostream>
+	<SDL2/SDL.h>
+	<cstdlib>
+	<ctime>
+
+1607309131 source:c:\users\toshiba\desktop\tetris i\gamefield.cpp
+	"gamefield.h"
+	"tetromino.h"
+	"game.h"
+
+1607309219 source:c:\users\toshiba\desktop\tetris i\main.cpp
+	"game.h"
+	"gamefield.h"
+	"tetromino.h"
+
+1607308036 source:c:\users\toshiba\desktop\tetris i\tetromino.cpp
+	"tetromino.h"
+	"game.h"
+	"gamefield.h"
+
